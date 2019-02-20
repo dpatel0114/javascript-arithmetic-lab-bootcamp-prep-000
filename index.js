@@ -10,8 +10,8 @@ function multiply(a,b){
 function divide(a,b){
   return a/b
 }
-function inc(608){
-  return 608++
+function inc(n){
+  return n++
 }
 function dec(n){
   return n--
